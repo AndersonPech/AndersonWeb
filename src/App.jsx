@@ -15,9 +15,9 @@ function App() {
       <ParticleComponent />
       <Context.Provider value={Data}>
         <Routes>
-          <Route path="/" element={<Profile />} />
-          <Route path="projects" element={<ProjectPage />} />
-          <Route path="contact" element={<Contact />} />
+          <Route path="/AndersonWeb/" element={<Profile />} />
+          <Route exact path="/AndersonWeb/projects" element={<ProjectPage />} />
+          <Route exact path="/AndersonWeb/contact" element={<Contact />} />
         </Routes>
       </Context.Provider>
     </div>

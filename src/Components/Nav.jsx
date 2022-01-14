@@ -34,9 +34,9 @@ export default function NavBar() {
       </div>
       <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div className="hidden lg:block text-lg lg:flex-grow">
-          <Link to="/" className="block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white font-mono mr-4 text-2xl antialiased">Profile</Link>
-          <Link to="projects" className="block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white font-mono mr-4 text-2xl antialiased">Projects</Link>
-          <Link to="contact" className="block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4 font-mono text-2xl antialiased ">Contact</Link>
+          <Link to="/AndersonWeb/" className="block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white font-mono mr-4 text-2xl antialiased">Profile</Link>
+          <Link to="/AndersonWeb/projects" className="block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white font-mono mr-4 text-2xl antialiased">Projects</Link>
+          <Link to="/AndersonWeb/contact" className="block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4 font-mono text-2xl antialiased ">Contact</Link>
         </div>
       </div>
       {navIcons}
