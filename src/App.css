@@ -1,0 +1,24 @@
+.bg {
+  margin:0px;
+  padding:0px;
+  height: 100%;
+  width: 100%;
+  display: fixed;
+  position: fixed;
+  background-color: aquamarine;
+}
+
+#bg-red .bg {
+  background-color: aqua;
+}
+
+.navTransition {
+  height: 0px;
+  transition: height, 0.2s linear;
+}
+
+.navOpen {
+  height: 180px;
+  transition: height, 0.2s linear;
+}
+
