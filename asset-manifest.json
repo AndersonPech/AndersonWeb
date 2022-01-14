@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AndersonWeb/static/css/main.04c9b008.css",
-    "main.js": "/AndersonWeb/static/js/main.91771103.js",
-    "static/js/787.cfd8f164.chunk.js": "/AndersonWeb/static/js/787.cfd8f164.chunk.js",
-    "static/media/opengl2D.gif": "/AndersonWeb/static/media/opengl2D.7603bfa72bf71a726e96.gif",
-    "static/media/opengl3D.gif": "/AndersonWeb/static/media/opengl3D.2bc17ceec051dd3e683c.gif",
-    "static/media/python.jpg": "/AndersonWeb/static/media/python.52766a4b90d9d68eef66.jpg",
-    "static/media/shell.png": "/AndersonWeb/static/media/shell.7322a08cf1426b40f085.png",
-    "static/media/linkedin.svg": "/AndersonWeb/static/media/linkedin.400c860fa08bd48326f294a9b2bdb8f1.svg",
-    "index.html": "/AndersonWeb/index.html",
-    "main.04c9b008.css.map": "/AndersonWeb/static/css/main.04c9b008.css.map",
-    "main.91771103.js.map": "/AndersonWeb/static/js/main.91771103.js.map",
-    "787.cfd8f164.chunk.js.map": "/AndersonWeb/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/static/css/main.04c9b008.css",
+    "main.js": "/static/js/main.16a864a8.js",
+    "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
+    "static/media/opengl2D.gif": "/static/media/opengl2D.7603bfa72bf71a726e96.gif",
+    "static/media/opengl3D.gif": "/static/media/opengl3D.2bc17ceec051dd3e683c.gif",
+    "static/media/python.jpg": "/static/media/python.52766a4b90d9d68eef66.jpg",
+    "static/media/shell.png": "/static/media/shell.7322a08cf1426b40f085.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.400c860fa08bd48326f294a9b2bdb8f1.svg",
+    "index.html": "/index.html",
+    "main.04c9b008.css.map": "/static/css/main.04c9b008.css.map",
+    "main.16a864a8.js.map": "/static/js/main.16a864a8.js.map",
+    "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04c9b008.css",
-    "static/js/main.91771103.js"
+    "static/js/main.16a864a8.js"
   ]
 }
