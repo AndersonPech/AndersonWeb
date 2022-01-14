@@ -15,9 +15,9 @@ export default function NavBar() {
   } else {
     navIcons = (
       <div className="navOpen text-lg lg:flex-grow lg:hidden">
-        <Link to="/" className="font-mono block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4">Profile</Link>
-        <Link to="projects" className="font-mono block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4">Projects</Link>
-        <Link to="contact" className="font-mono block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4">Contact</Link>
+        <Link to="/AndersonWeb/" className="font-mono block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4">Profile</Link>
+        <Link to="/AndersonWeb/projects" className="font-mono block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4">Projects</Link>
+        <Link to="/AndersonWeb/contact" className="font-mono block mt-4 lg:inline-block lg:mt-0 text-stone-800 hover:text-white mr-4">Contact</Link>
       </div>
     );
   }
